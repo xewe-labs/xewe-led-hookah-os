@@ -1,3 +1,5 @@
+> Archived. Part of the XeWe LED family; see https://github.com/xewe-labs/xewe-led-os.
+
 # HookahOS — LED light effects for a hookah flask
 
 Personal project (Moscow) · 2018-11 → 2019-02 · Solo: Max Dokukin · Status: Completed (uploaded to GitHub 2023-11-09)
